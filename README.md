@@ -1,1 +1,1 @@
-# CryptoCurrency-Dashboard
+# CryptoCurrency Dashboard
